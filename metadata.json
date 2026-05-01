@@ -1,0 +1,6 @@
+{
+  "name": "SuitabilityAI",
+  "description": "FCA-compliant mortgage suitability report generator for UK brokers. Automated AI drafting, audit logs, and PayPal subscription management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
